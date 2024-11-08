@@ -60,16 +60,16 @@ print(cl)
 ```
 
 ## Output:
-##data.head():
+## data.head()
 ![379537361-793cdbf1-6982-40b6-b579-664f18455db8](https://github.com/user-attachments/assets/20e3598f-71ea-4d08-b007-93fc40d58358)
 
-##data.info():
+## data.info():
 ![379540277-84e0a36c-cd22-4072-aa6a-88d97401e192](https://github.com/user-attachments/assets/579d11ce-5c4c-44db-8282-315d21cd09a2)
 
-##y_pred:
+## y_pred:
 ![379539787-39766337-f7d0-4aca-9ae2-09463c744bf7](https://github.com/user-attachments/assets/10f822be-48ab-4bf9-9f40-4f3680c239cc)
 
-##accuracy_score:
+## accuracy_score:
 ![379539973-ee1c7fa8-f190-4970-8596-dd58e512f78b](https://github.com/user-attachments/assets/06992084-fd00-4239-a976-9aff39a6a620)
 
 ## Result:
